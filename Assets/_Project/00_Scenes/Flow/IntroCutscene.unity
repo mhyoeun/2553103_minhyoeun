@@ -593,7 +593,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 60, y: 50}
+  m_AnchoredPosition: {x: 48, y: 69}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &907461284
@@ -960,7 +960,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -60, y: 50}
+  m_AnchoredPosition: {x: -35, y: 69}
   m_SizeDelta: {x: 214, y: 87}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1314167295
@@ -1252,8 +1252,12 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: a3b267b61160f9a42a747da542c37442, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 9ee8b8f17eba883439f5f168685975fa, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 920be5624e217a448a91f823845442b9, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
